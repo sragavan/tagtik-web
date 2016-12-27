@@ -24,7 +24,8 @@
     "noImageResize": "",
     "versionFirst": "3.10.3",
     "uniqCompNum": 15,
-    "versionPublish": "3.10.3"
+    "versionPublish": "3.10.3",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -167,7 +168,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/embed/6XpmVLZwPzQ",
+              "src": "https://www.youtube.com/embed/c2-FgQhrI8k",
               "aspectratio": "16:9",
               "autoplay": "on",
               "loop": false
@@ -355,7 +356,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/embed/oBNVneP_5JU",
+              "src": "https://www.youtube.com/embed/KERJPkKJBa8",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -399,7 +400,7 @@
             "showSubTitle": true
           },
           "title": "To know more",
-          "subtitle": "Drop your email and we will get back shortly.&nbsp;",
+          "subtitle": "Drop your email and we will get back to you for an appointment for a full fledged demo.&nbsp;",
           "form": {
             "action": "tagtik@nirals.in",
             "alerts": {
