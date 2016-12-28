@@ -437,7 +437,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Nirals Information Technologies Private Limited."
+          "text": "Copyright (c) 2017 <a href=\"http://www.nirals.in\" target=\"_blank\">Nirals Information Technologies Private Limited</a>."
         }
       ]
     }
