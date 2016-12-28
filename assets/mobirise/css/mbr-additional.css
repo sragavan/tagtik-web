@@ -1,6 +1,8 @@
+@import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -478,6 +480,7 @@ h6,
 }
 #msg-box7-d H3 {
   text-align: center;
+  font-family: 'Merriweather', serif;
 }
 #features7-4 .card-subtitle {
   color: #bcbcbc;
